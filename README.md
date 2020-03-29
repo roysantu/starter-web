@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
+some update not in remote but commited
 ## Purpose
 
 Sample website with plenty of files for demos
